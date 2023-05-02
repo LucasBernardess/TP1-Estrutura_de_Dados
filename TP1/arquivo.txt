@@ -1,0 +1,22 @@
+CADASTRA 1
+CADASTRA 2
+CADASTRA 3
+CADASTRA 4
+CADASTRA 5
+REMOVE 2
+REMOVE 3
+ENTREGA 4 3 Oi td bem? Meu nome e Messias e eu sou natural de Lafaiete FIM
+ENTREGA 5 9 Meu nome e Julia FIM
+ENTREGA 4 0  FIM
+ENTREGA 4 2 Meu nome e Flavio e eu sou um estudante da Universidade Federal de São João Del rei e curso Ciência da Computação FIM
+ENTREGA 4 9 Meu nome e Messias FIM
+ENTREGA 4 9 Meu nome e Messias FIM
+ENTREGA 4 9 Meu nome e Messias FIM
+ENTREGA 4 9 Meu nome e Messias FIM
+ENTREGA 4 9 s FIM
+ENTREGA 4 9 das FIM
+ENTREGA 6 9 Opa, como vc esta? FIM
+CONSULTA 4
+REMOVE 4
+CADASTRA 6
+ENTREGA 6 9 Opa, como vc esta? FIM
